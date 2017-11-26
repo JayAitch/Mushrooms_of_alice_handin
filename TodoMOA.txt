@@ -1,0 +1,4 @@
+properly normalise characharacter to allow *2
+bool to control bellow 0.2 character size
+boolean for above 1 to character growth
+logic to change from  graph= chracter size to + character size
